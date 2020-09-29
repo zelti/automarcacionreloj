@@ -1,4 +1,5 @@
 # AutoRelojControl
+Un pequeño robot hecho con selenium que permite hacer tu marcacion de asistencia automaticamente en la pagina https://www.relojcontrol.com/
 
 # Instalacion
 
